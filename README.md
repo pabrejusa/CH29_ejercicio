@@ -7,3 +7,6 @@
 3. Página llamada "nosotros": En la cual se especificará la misión, visión y valores de la empresa.
 4. Una página llamada productos: En la cual se encontarán los productos que ofrece a la venta la empresa dueña de la página.
 5. Página de registro: Donde los usuarios se podrán registrar y entrar a la página con un servicio más personalizado.
+**Todo esto fue utilizando:**
+[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+Por su atención gracias.
